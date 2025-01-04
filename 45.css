@@ -1,0 +1,15 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.yellow{
+	background: yellow;
+	color: white;
+}
+.red{
+	background: red;
+	/* color: white; */
+}
+.text-dark{
+	color: black;
+}
